@@ -1,0 +1,12 @@
+{
+    "env": {
+        "PORT": 3000,
+        "GOOGLE_CLOUD_PROJECT_ID": "stttest-245511",
+        "GOOGLE_APPLICATION_CREDENTIALS": "/home/kot/stttest-245511-265008a323f3.json",
+        "GOOGLE_CLOUD_KEYFILE": "/home/kot/stttest-245511-265008a323f3.json"
+    },
+    "gcp": {
+        "bucket": "tokushiro-test",
+        "languageCode": "ja-JP"
+    }
+}
